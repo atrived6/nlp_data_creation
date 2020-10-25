@@ -1,0 +1,1 @@
+This folder contains annotations and captions related to refcoco.
